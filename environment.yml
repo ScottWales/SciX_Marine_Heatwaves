@@ -11,3 +11,5 @@ dependencies:
   - requests
   - pyyaml
   - dask
+  - netcdf4
+  - pydap
